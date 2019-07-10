@@ -4,4 +4,4 @@
 
 [Cybernetic Representations of Suboptimal Regulatory Systems](). NetSciReg, Indianapolis, IN.
 
-[The ‘Machinery’ of Biocomplexity: understanding non-optimal architectures in biological systems](). arXiv, 1104.3559 [nlin.AO, q-bio.QM, q-bio.PE].
+[The ‘Machinery’ of Biocomplexity: understanding non-optimal architectures in biological systems](). _arXiv_, 1104.3559 [nlin.AO, q-bio.QM, q-bio.PE].
