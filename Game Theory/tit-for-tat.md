@@ -2,6 +2,8 @@ Rapoport, A., Seale, D.A., and Colman, A.M. (2015). [Is Tit-for-Tat the Answer? 
 
 ['Tit for Tat' Defeated In Prisoner's Dilemma Challenge](https://slashdot.org/story/04/10/14/134202/tit-for-tat-defeated-in-prisoners-dilemma-challenge). _Slashdot_, October 14, 2004.  
 
+[Econometrics by Simulation](http://www.econometricsbysimulation.com/). Blog with R, Julia, and Stata code examples.
+
 Iterated Prisoner's Dilemma (PD) game:
 Nelson, B.L.S. (2012). [Netlogo, game theory, and the iterated Prisoner's Dilemma](https://blsnelson.wordpress.com/2012/07/06/fight-my-little-prisoners/).  
 
