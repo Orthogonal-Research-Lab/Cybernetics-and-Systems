@@ -1,1 +1,1 @@
-
+Embryogenesis as a first-mover game. For example, see Figure 4 in Stone, R., Portegys, T., Mikhailovsky, G., and Alicea, B. (2018). [Origins of the Embryo: self-organization through cybernetic regulation](https://www.researchgate.net/publication/316861647_Origins_of_the_Embryo_self-organization_through_cybernetic_regulation_Preprint). _BioSystems_, 173, 73-82.
