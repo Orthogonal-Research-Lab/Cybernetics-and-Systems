@@ -1,7 +1,13 @@
 ## Notes:
 
-
 Notes on a "good" regulator based on Conant and Ashby, 1970.
+
+
+
+General approach to regulation from Sommerhoff (1950).
+
+Ashby reformulates Z in set-theoretic terms.
+
 
 D = primary process that causes events in S and drives outcomes of G.
 
