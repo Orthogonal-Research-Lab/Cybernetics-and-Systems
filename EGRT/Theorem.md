@@ -2,7 +2,9 @@
 
 Notes on a "good" regulator based on Conant and Ashby, 1970.
 
-
+<p align="center">
+  <img width="237" height="310" src="">
+</p>
 
 General approach to regulation from Sommerhoff (1950).
 
