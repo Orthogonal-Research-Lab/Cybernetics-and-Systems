@@ -8,6 +8,8 @@ In IGT, strategies can be played both rationally and ideologically.
 
 * ideological arms race is where each player converges to an ideological strategy not aligned with the empirical strategy predicted by an optimal rational model.
 
+* ideological reciprocal altruism is where each player converges to an ideological strategy that is aligned with the empirical strategy predicted by an optimal rational model.
+
 <p align="center">
   <img width="256" height="205" src="https://user-images.githubusercontent.com/38323286/64917914-305ee800-d75c-11e9-865d-abd90bfe2a56.jpg">
 </p>
