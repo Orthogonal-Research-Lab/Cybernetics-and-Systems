@@ -4,8 +4,8 @@ Stackleberg games (general case) and equilibria [Wikipedia](https://en.wikipedia
 
 * first-mover advantage. Useful for competing processes, cell lineages, or populations. 
 
-Tic-tac-toe (noughts and crosses)  [link](https://en.wikipedia.org/wiki/Tic-tac-toe)  
+Tic-tac-toe (naughts and crosses)  [link](https://en.wikipedia.org/wiki/Tic-tac-toe)  
 
-* tic-tac-toe is both an example of a first-mover advantage and a futile game (see [futile cycles](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems/tree/master/Game%20Theory/Futile%20Cycle).
+* tic-tac-toe is both an example of a first-mover advantage and a futile game (see [futile cycles](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems/tree/master/Game%20Theory/Futile%20Cycle)).
 
 * tic-tac-toe also provides us with a good model of [game complexity](https://en.wikipedia.org/wiki/Game_complexity), which allows us to link first-mover dynamics with complexity and biological model abstractions.
