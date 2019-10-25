@@ -7,4 +7,6 @@ Kaplan, R. and Friston, K.J. (2018). [Planning and navigation as active inferenc
 
 McGregor, S. and Mediano, P.A.M. (2018). [Adaptation Is Not Just Improvement over Time](https://www.ncbi.nlm.nih.gov/pubmed/30485144). _Artificial Life_, 24. 182–198 doi:10.1162/artl_a_00268.
 
+Porrill, J. and Dean, P. (2007). [Recurrent Cerebellar Loops Simplify Adaptive Control of Redundant and Nonlinear Motor Systems](https://www.researchgate.net/publication/6665020_Recurrent_Cerebellar_Loops_Simplify_Adaptive_Control_of_Redundant_and_Nonlinear_Motor_Systems). _Neural Computation_, doi:10.1162/neco.2007.19.1.170.
+
 Roth, E., Sponberg, S., and Cowan, N.J. (2014). [A comparative approach to closed-loop computation](https://www.sciencedirect.com/science/article/abs/pii/S095943881300216X). _Current Opinion in Neurobiology_, 25, 54-62. doi:10.1016/j.conb.2013.11.005. 
