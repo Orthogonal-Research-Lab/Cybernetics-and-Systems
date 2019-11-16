@@ -7,4 +7,6 @@ Word cloud represents first 60 articles in the JANE database using the EGRT pape
 * select "find articles" in JANE interface.
 
 * made using Wordclouds: https://www.wordclouds.com/
+
+* title: "The Foundations of Control and Cognition: The Every Good Regulator Theorem" (alternate title: "Reconsidering the Model as a Unit of Regulation: cybernetics and the adaptive outcome")
 	
