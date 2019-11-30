@@ -3,3 +3,6 @@ Blogpost: [Resistance is a Futile Cycle](https://syntheticdaisies.blogspot.com/2
 Examples of futile cycles from Physiology  [link](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/futile-cycle).
 
 Stochastic Resonance  [link](https://en.wikipedia.org/wiki/Stochastic_resonance).
+
+
+
