@@ -11,3 +11,5 @@ Spatial multiplication is abundant in nature, while temporal multiplication is p
 * undampened feedback -- Cerebellar or motor control disorder.
 
 * teleology <--> causality, time (t) is the x-axis.
+
+See also: [Perceptual Time and the Evolution of Informational Investment](https://syntheticdaisies.blogspot.com/2013/09/perceptual-time-and-evolution-of.html), _Synthetic Daisies_ blog, September 24, 2013.
