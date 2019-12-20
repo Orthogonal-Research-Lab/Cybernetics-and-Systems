@@ -9,3 +9,7 @@ Tic-tac-toe (naughts and crosses)  [link](https://en.wikipedia.org/wiki/Tic-tac-
 * tic-tac-toe is both an example of a first-mover advantage and a futile game (see [futile cycles](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems/tree/master/Game%20Theory/Futile%20Cycle)).
 
 * tic-tac-toe also provides us with a good model of [game complexity](https://en.wikipedia.org/wiki/Game_complexity), which allows us to link first-mover dynamics with complexity and biological model abstractions.
+
+Connectome as a first-mover game. For example, see Figure 5 in forthcoming paper "Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_".
+
+
