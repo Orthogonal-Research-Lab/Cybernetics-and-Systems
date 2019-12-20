@@ -12,4 +12,8 @@ Tic-tac-toe (naughts and crosses)  [link](https://en.wikipedia.org/wiki/Tic-tac-
 
 Connectome as a first-mover game. For example, see Figure 5 in forthcoming paper "Raising the Connectome: the emergence of neuronal activity and behavior in _C. elegans_".
 
+* first-mover advantage sets the conditions for gene expression and ion cell expression as neuronal cells wire together in an embryo.
+
+* older cells have first-mover advantage for influencing the gene expression program of newer cells, older cells that wire into connectome later can disrupt this advantage.
+
 
