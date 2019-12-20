@@ -1,0 +1,1 @@
+[Post-connectionism](https://www.um.es/externos/systematicityworkshop/background.php) refers to ecological psychology, dynamical systems theory, cognitivism, and non-classical connectionism to simulate behavior.
