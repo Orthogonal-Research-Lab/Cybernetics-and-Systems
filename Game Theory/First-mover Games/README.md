@@ -16,6 +16,8 @@ Connectome as a first-mover game. For example, see Figure 5 in forthcoming paper
 
 * first-mover advantage sets the conditions for gene expression and ion cell expression as neuronal cells wire together in an embryo.
 
+* older neurons (ones that differentiated first) are the leaders, younger neurons are the followers.
+
 * older cells have first-mover advantage for influencing the gene expression program of newer cells, older cells that wire into connectome later can disrupt this advantage.
 
 
