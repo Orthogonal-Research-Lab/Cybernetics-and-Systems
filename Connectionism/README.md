@@ -1,1 +1,1 @@
-
+Bates, E.A. and Elman, J.L. (1993). [Connectionism and the Study of Change](https://crl.ucsd.edu/~elman/Papers/bates_elman/bates_elman.html). In "Brain Development and Cognition: A Reader", M. Johnson (ed.), pgs. 623-642. Blackwell, Oxford, UK. 
