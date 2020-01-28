@@ -1,3 +1,18 @@
+Computational Equivalence:
+
+Implemental and eliminative connectionism (Fodor and Pylyshyn, 1988).
+
+* eliminative: subsymbolic, information stored in wieghts (statistical).
+
+* brain = symbolic processor, discover machinery needed for symbolic processing.
+
+* the brain (or other complex systems) can compute the same things as a computer (or for 
+computers to emulate natural systems). Chapter 12 in NKS.
+
+Hypothalamus, thermostat autonomic control (models for autonomic control).
+
+* Morrison, Thermostat concept. Temperature, 2(3), 332-333 (2015).  
+
 Wolfram, S. (2002). New Kind of Science. Wolfram Press, Champaign, IL.
 
 Computational equivalence:
@@ -25,7 +40,6 @@ Multiway systems (substitution systems):
 New Kind of Science: instead of mathematical models, are there computational systems that can characterize a computational POV?
 
 * systems with quite different underlying structures show a certain kind of equivalence.
-
 
 Pribram, K.H. (1983). The Brain, Cognitive Commodities, and the Enfolded Order. IN "Optimum Utilization of Knowledge: making knowledge serve human betterment". Chapter 3. K.E. Boulding and L. Senesh eds. Westview Press, New York.
 https://books.google.com/books?id=4kyfDwAAQBAJ&pg=PT35&lpg=PT35&dq=thermostats+simulate+the+brain&source=bl&ots=om_KRaMVBO&sig=ACfU3U3-se2CK6pRGOFfm8nMlQwlw8uAug&hl=en&sa=X&ved=2ahUKEwik6eOkmaTnAhVJa80KHUUYC9QQ6AEwF3oECAwQAQ#v=onepage&q&f=false
