@@ -11,3 +11,15 @@ Two vectors are strongly interactive if there is a high degree of cross-correlat
 * distance metric can also be used to define the potential for interactivity (shoter distances are more likely to interact).
 
 * mutual information can also be used to define strong interactivity, for _I(M;N)_ --> _max I(M;N)_.
+
+
+
+Equivalences but Asymmetry = Structure.
+
+* no solution to inverse problem.
+
+* emergent system not reversible, but has many equivalent sets of interactions.
+
+* not just any old path to emergence, however.
+
+* no exact solution, but structure!
