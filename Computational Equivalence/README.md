@@ -2,7 +2,7 @@ Computational Equivalence:
 
 Implemental and eliminative connectionism (Fodor and Pylyshyn, 1988).
 
-* eliminative: subsymbolic, information stored in wieghts (statistical).
+* eliminative: subsymbolic, information stored in weights (statistical).
 
 * brain = symbolic processor, discover machinery needed for symbolic processing.
 
@@ -15,6 +15,7 @@ Hypothalamus, thermostat autonomic control (models for autonomic control).
 
 Wolfram, S. (2002). New Kind of Science. Wolfram Press, Champaign, IL.
 
+
 Computational equivalence:
 
 * underlying structures show a certain kind of equivalence.
@@ -23,11 +24,12 @@ Computational equivalence:
 
 * universal computation (Turing machines, cellular automata), natural systems can never carry out a computation more complex than this.
 
-* mathematical models can introduce too much computational sphistication (natural system performs computations more simply).
+* mathematical models can introduce too much computational sophistication (natural system performs computations more simply).
 
 * if behavior of a system is obviously simple (e.g. repetitive, nested), then it will be computationally reducible.
 
 * formulas require reducibility, but most problems are irreducible (requires some computational work to solve).
+
 
 Multiway systems (substitution systems):
 
@@ -37,12 +39,13 @@ Multiway systems (substitution systems):
 
 * Turing machines -- systems based on ?
 
+
 New Kind of Science: instead of mathematical models, are there computational systems that can characterize a computational POV?
 
 * systems with quite different underlying structures show a certain kind of equivalence.
 
-Pribram, K.H. (1983). The Brain, Cognitive Commodities, and the Enfolded Order. IN "Optimum Utilization of Knowledge: making knowledge serve human betterment". Chapter 3. K.E. Boulding and L. Senesh eds. Westview Press, New York.
-https://books.google.com/books?id=4kyfDwAAQBAJ&pg=PT35&lpg=PT35&dq=thermostats+simulate+the+brain&source=bl&ots=om_KRaMVBO&sig=ACfU3U3-se2CK6pRGOFfm8nMlQwlw8uAug&hl=en&sa=X&ved=2ahUKEwik6eOkmaTnAhVJa80KHUUYC9QQ6AEwF3oECAwQAQ#v=onepage&q&f=false
+Pribram, K.H. (1983). The Brain, Cognitive Commodities, and the Enfolded Order. IN "[Optimum Utilization of Knowledge: making knowledge serve human betterment](https://books.google.com/books?id=4kyfDwAAQBAJ&pg=PT35&lpg=PT35&dq=thermostats+simulate+the+brain&source=bl&ots=om_KRaMVBO&sig=ACfU3U3-se2CK6pRGOFfm8nMlQwlw8uAug&hl=en&sa=X&ved=2ahUKEwik6eOkmaTnAhVJa80KHUUYC9QQ6AEwF3oECAwQAQ#v=onepage&q&f=false)". Chapter 3. K.E. Boulding and L. Senesh eds. Westview Press, New York.
+
 
 Language, Icons, Symbols constructed by:
 
@@ -50,9 +53,11 @@ Language, Icons, Symbols constructed by:
 
 * proportional fittingness (algebraic isomorphism).
 
+
 Isomorphism:
 
 * when mappings between A and B are linear and reversible.
+
 
 Memory without record (first proposed by von Forester):
 
@@ -63,6 +68,7 @@ Memory without record (first proposed by von Forester):
 >>>>> also analogous to difference between current experience (or view) and conditions of larger context.
 
 * similar to homeostat concept of Weiner.
+
 
 Math problems --> do you remember every answer (flash cards), or do you remeber the operations (operator's rules) and then reproduce answer for a wide range of problems?
 
