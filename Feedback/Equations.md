@@ -8,4 +8,4 @@ PID model:
 
 $$p(t) = K_p + K_i + K_d$$
 
-where $K_p$ is the proportional component, $K_i$ is the integral component, and $K_d$ is the derivative component, $$K_p/T_i$$ is integrted time, and $$K_p/T_d$$ is derivative time.
+where $K_p$ is the proportional component, $K_i$ is the integral component, and $K_d$ is the derivative component, $$K_p/T_i$$ is integrated time, and $$K_p/T_d$$ is derivative time.
