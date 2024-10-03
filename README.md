@@ -8,16 +8,16 @@ Bradly Alicea, Morgan Hough, Amanda Nelson, and Jesse Parent
 ### [Every Good Regulator Provides a World Model for Intelligent Systems](https://www.researchgate.net/publication/381547888_Every_Good_Regulator_Provides_a_World_Model_for_Intelligent_Systems)
 
 A classic idea from the cybernetics literature is the good regulator approach first formulated by Conant and Ashby in 1970, who proposed a formalism for good regulation. The Every Good Regulator Theorem (EGRT) provides a unique perspective on intelligent autonomous learning systems reliant on a type of compressed global representation (world model). We will discuss the concepts of modeling and regulation in the original EGRT, requiring a revisitation of the historical and technical underpinnings relevant to regulating a system with communication, equilibrium, and feedback. A homeomorphic mapping between controller and the controlled system (or model) provides a reduced representation that preserves useful variety for all possible outcomes of a system. Several toy models challenge the notion of tightly-coupled good regulation, and demonstrate how diverse models of physical systems can address the challenges of far-from-equilibrium and out-of-distribution phenomena. Of particular interest are learning systems that utilize physical phenomena such as diffusion, criticality, phase transitions, rotational forces, and bifurcation. The EGRT is then connected to a sampling of approaches and trends in machine learning (ML), deep learning (DL), and reinforcement learning (RL). We aim to recast the EGRT as a modern tool for ML and RL architectures by considering the role of good regulation and complexity in understanding the performance of intelligent systems.
-
-
-
+   
+   
+   
 Bradly Alicea
 ### [Allostasis Machines as Continuous Cognitive Modeling](https://www.researchgate.net/publication/379991144_Allostasis_Machines_as_Continuous_Cognitive_Modeling)
 
 Naturalistic cognition in human performance is defined by dynamical responses to stimuli. Allostasis Machines (AMs) are characterized by an internal model and corresponding output trajectory characterizing a generalized response to stresses and sudden changes. The effects of the environment on the internal model are collectively known as perturbations, with a generalized response analogous to allostatic load. AMs consist of a sensory input, an internal model, a source of environmental perturbation, and an dynamical output that represents the response to perturbation over time. These dynamical output trajectories characterize this response either by recovering from perturbation (well-matched, ergodic), or drifting to a new stable state (accommodative, non-ergodic). We construct a quantitative model of AMs and consider their behaviors in a variety of scenarios, including isolated, serial, and new state perturbations. Control-theoretic strategies and multi-scale information processing can also be employed to provide AM models with more sophisticated feedback and control mechanisms. Understanding the difference between well-matched responses (stably matching environmental states) and allostatic drift (hysteretic responses to perturbation) clarifies how nonlinear responses produce continuous stability.
-
-
-
+   
+   
+   
 Robert Stone and Bradly Alicea
 ### [The Foundations of Control and Cognition: The Every Good Regulator Theorem](https://www.researchgate.net/publication/308935327_The_Foundations_of_Control_and_Cognition_The_Every_Good_Regulator_Theorem)
 
