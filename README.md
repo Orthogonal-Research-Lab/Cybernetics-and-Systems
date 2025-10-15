@@ -11,7 +11,7 @@ A classic idea from the cybernetics literature is the good regulator approach fi
 
 
    
-Bradly Alicea
+Bradly Alicea, Morgan Hough, Amanda Nelson, and Jesse Parent
 ### [A Brief History of Cybernetic Imperatives and Behavior](https://www.researchgate.net/publication/395840555_A_Brief_History_of_Cybernetic_Imperatives_and_Behavior)
 
 The history of science has presented multiple ways to understand progressive and adaptive processes. In the field of cybernetics, this was understood to be teleological, or purposeful improvement over time. Early cyberneticists proposed a means to classify behaviors in a way that distinguishes between random  behaviors and more controlled behaviors. Therefore, we begin by providing a history of teleological phenomena, exploring its multitude of current forms. We then take our own perspective, revising the behavioral typology presented in Rosenbleuth et.al in several ways, exploring alternatives to their stated examples. In the process, the concept of cybernetic imperatives is introduced, which provides an alternative to goal-directed, purposeful behavior. Cybernetic imperatives describe behaviors observed in a wide range of processes and real-world dynamics, building up from random processes to refined and so-called purposeful behaviors. To conclude, we consider how cybernetic imperatives lead to behavioral and regulatory complexity.
