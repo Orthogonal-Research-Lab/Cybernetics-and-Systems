@@ -8,9 +8,16 @@ Bradly Alicea, Morgan Hough, Amanda Nelson, and Jesse Parent
 ### [Every Good Regulator Provides a World Model for Intelligent Systems](https://www.researchgate.net/publication/381547888_Every_Good_Regulator_Provides_a_World_Model_for_Intelligent_Systems)
 
 A classic idea from the cybernetics literature is the good regulator approach first formulated by Conant and Ashby in 1970, who proposed a formalism for good regulation. The Every Good Regulator Theorem (EGRT) provides a unique perspective on intelligent autonomous learning systems reliant on a type of compressed global representation (world model). We will discuss the concepts of modeling and regulation in the original EGRT, requiring a revisitation of the historical and technical underpinnings relevant to regulating a system with communication, equilibrium, and feedback. A homeomorphic mapping between controller and the controlled system (or model) provides a reduced representation that preserves useful variety for all possible outcomes of a system. Several toy models challenge the notion of tightly-coupled good regulation, and demonstrate how diverse models of physical systems can address the challenges of far-from-equilibrium and out-of-distribution phenomena. Of particular interest are learning systems that utilize physical phenomena such as diffusion, criticality, phase transitions, rotational forces, and bifurcation. The EGRT is then connected to a sampling of approaches and trends in machine learning (ML), deep learning (DL), and reinforcement learning (RL). We aim to recast the EGRT as a modern tool for ML and RL architectures by considering the role of good regulation and complexity in understanding the performance of intelligent systems.
+
+
    
-   
-   
+Bradly Alicea
+### [A Brief History of Cybernetic Imperatives and Behavior](https://www.researchgate.net/publication/395840555_A_Brief_History_of_Cybernetic_Imperatives_and_Behavior)
+
+The history of science has presented multiple ways to understand progressive and adaptive processes. In the field of cybernetics, this was understood to be teleological, or purposeful improvement over time. Early cyberneticists proposed a means to classify behaviors in a way that distinguishes between random  behaviors and more controlled behaviors. Therefore, we begin by providing a history of teleological phenomena, exploring its multitude of current forms. We then take our own perspective, revising the behavioral typology presented in Rosenbleuth et.al in several ways, exploring alternatives to their stated examples. In the process, the concept of cybernetic imperatives is introduced, which provides an alternative to goal-directed, purposeful behavior. Cybernetic imperatives describe behaviors observed in a wide range of processes and real-world dynamics, building up from random processes to refined and so-called purposeful behaviors. To conclude, we consider how cybernetic imperatives lead to behavioral and regulatory complexity.
+
+
+    
 Bradly Alicea
 ### [Allostasis Machines as Continuous Cognitive Modeling](https://www.researchgate.net/publication/379991144_Allostasis_Machines_as_Continuous_Cognitive_Modeling)
 
